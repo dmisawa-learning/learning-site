@@ -22,6 +22,9 @@ PostgreSQL for Windows
 <https://qiita.com/tom-sato/items/037b8f8cb4b326710f71>  
 ・PostgreSQLコマンド一覧  
 <https://dev.classmethod.jp/articles/postgresql-organize-command/>
+・PostgreSQL初期設定  
+<https://qiita.com/s_Pure/items/fdac4cf783c9b3d407ca>
+
 
 ## Knowledge
 ・Talend入門(2)にて以下エラー  
