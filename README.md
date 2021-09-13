@@ -21,8 +21,7 @@ PostgreSQL for Windows
 ・Windows版のPostgreSQLをインストールして学習  
 <https://www.postgresql.jp/index.php/download>  
 ・Windows版のPostgreSQLデータベース環境構築  
-<https://qiita.com/ynkgw/items/bf4a4a773e7a7cb0172f>
-
+<https://qiita.com/tom-sato/items/037b8f8cb4b326710f71>  
 
 
 ## Knowledge
