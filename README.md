@@ -30,7 +30,7 @@ PostgreSQL for Windows
 ・Talend入門(2)にて以下エラー  
  Invalid escape sequence (valid ones are  \b  \t  \n  \f  \r  \"  \'  \\ )  
  ⇒インプット指定ファイルパスを\\\\で指定　ex)"C:\\\\tmp\\\\work\\\\fileio\\\\in.csv"
- <https://community.talend.com/s/feed/0D73p000004kBk1CAE?language=en_US> ※
+ <https://community.talend.com/s/feed/0D73p000004kBk1CAE?language=en_US> ※参考
  
 ・Talend入門(3)にてPostgreSQLのコンポーネントを使用する際に以下のようなエラー  
  『外部jarのインストールが必要です』  
