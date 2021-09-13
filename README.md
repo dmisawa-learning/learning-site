@@ -18,11 +18,10 @@
 ## Database
 ・AmazonAurora(PostgreSQL互換)の学習としてPostgreSQLを学ぶ    
 PostgreSQL for Windows   
-・Windows版のPostgreSQLをインストールして学習  
-<https://www.postgresql.jp/index.php/download>  
 ・Windows版のPostgreSQLデータベース環境構築  
 <https://qiita.com/tom-sato/items/037b8f8cb4b326710f71>  
-
+・PostgreSQLコマンド一覧  
+<https://dev.classmethod.jp/articles/postgresql-organize-command/>
 
 ## Knowledge
 ・Talend入門(2)にて以下エラー  
