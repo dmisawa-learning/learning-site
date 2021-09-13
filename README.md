@@ -35,8 +35,9 @@ PostgreSQL for Windows
 ・Talend入門(3)にてPostgreSQLのコンポーネントを使用する際に以下のようなエラー  
  『外部jarのインストールが必要です』  
  社内Proxyを使ってるからインストールできないが、  
- 下記URLにアクセスし、直接インストール  
+ 下記URLにアクセスし、Webからダウンロード、インストール  
 <https://talend-update.talend.com/nexus/content/repositories/libraries/org/postgresql/postgresql/42.2.9/>  
+<https://community.talend.com/s/feed/0D53p00007vCrEeCAK?language=en_US> ※参考
 
 
 
