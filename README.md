@@ -10,6 +10,19 @@
 &nbsp;&nbsp;<https://qiita.com/airkoda/items/1cd12c05c6136add7178>  
 &nbsp;&nbsp;&nbsp;⇒ファイルI/O
 
+・Talend入門(3)   
+&nbsp;&nbsp;<https://qiita.com/airkoda/items/bc807c920c3adebad837>  
+&nbsp;&nbsp;&nbsp;⇒データベースI/O  
+&nbsp;&nbsp;&nbsp;⇒前提として下記、Database環境構築を実施
+
+## Database
+・AmazonAurora(PostgreSQL互換)の学習としてPostgreSQLを学ぶ    
+PostgreSQL for Windows   
+・Windows版のPostgreSQLをインストールして学習  
+<https://www.postgresql.jp/index.php/download>  
+・Windows版のPostgreSQLデータベース環境構築  
+<https://qiita.com/ynkgw/items/bf4a4a773e7a7cb0172f>
+
 
 
 ## Knowledge
