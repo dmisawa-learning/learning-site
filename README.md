@@ -15,8 +15,8 @@
 &nbsp;&nbsp;&nbsp;⇒データベースI/O  
 &nbsp;&nbsp;&nbsp;⇒前提として下記、Database環境構築を実施
 
-・Talend入門(2)(3)を組み合わせ
-&nbsp;&nbsp;CSV⇒Table出力の流れを
+・Talend入門(2)(3)を組み合わせ  
+&nbsp;&nbsp;CSV⇒Table出力の流れを学習
 
 ## Database
 ・AmazonAurora(PostgreSQL互換)の学習としてPostgreSQLを学ぶ    
