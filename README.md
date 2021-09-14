@@ -15,14 +15,20 @@
 &nbsp;&nbsp;&nbsp;⇒データベースI/O  
 &nbsp;&nbsp;&nbsp;⇒前提として下記、Database環境構築を実施
 
+・Talend入門(2)(3)を組み合わせ
+&nbsp;&nbsp;CSV⇒Table出力の流れを
+
 ## Database
 ・AmazonAurora(PostgreSQL互換)の学習としてPostgreSQLを学ぶ    
-PostgreSQL for Windows   
+PostgreSQL for Windows     
+
 ・Windows版のPostgreSQLデータベース環境構築  
 <https://qiita.com/tom-sato/items/037b8f8cb4b326710f71>  
+
 ・PostgreSQL初期設定  
-<https://qiita.com/s_Pure/items/fdac4cf783c9b3d407ca>  
-・PostgreSQLコマンド一覧  
+<https://qiita.com/s_Pure/items/fdac4cf783c9b3d407ca>   
+
+・PostgreSQLコマンド一覧   
 <https://dev.classmethod.jp/articles/postgresql-organize-command/>  
 
 
